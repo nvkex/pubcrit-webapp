@@ -1,6 +1,6 @@
 # y
 
-> y
+> Pubcrit Web App
 
 ## Build Setup
 
