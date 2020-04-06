@@ -1,4 +1,4 @@
-# y
+# Pubcrit Web App
 
 > Pubcrit Web App
 
